@@ -102,7 +102,7 @@ a { color: inherit; }
   position: relative;
   width: 100%;
   height: clamp(300px, 55vw, 600px);
-  background: url('../images/cover-page.png') center / cover no-repeat;
+  background: url('../images/cover.png') center / cover no-repeat;
 }
 .hero::after {            
   content: "";
@@ -114,8 +114,8 @@ a { color: inherit; }
 }
 
 
-.box .hero  { height: clamp(260px, 45vw, 500px); background: url('../images/about\ a.png') center / cover no-repeat; }
-.box3 .hero { height: clamp(260px, 45vw, 500px); background: url('../images/about\ b.png') center / cover no-repeat; }
+.box .hero  { height: clamp(260px, 45vw, 500px); background: url('../images/abouta.png') center / cover no-repeat; }
+.box3 .hero { height: clamp(260px, 45vw, 500px); background: url('../images/aboutb.png') center / cover no-repeat; }
 
 
 
