@@ -101,7 +101,7 @@ a { color: inherit; }
 .hero {
   position: relative;
   width: 100%;
-  height: clamp(300px, 55vw, 600px);
+  height: clamp(300px, 55vw, 700px);
   background: url('../images/cover.png') center / cover no-repeat;
 }
 .hero::after {            
